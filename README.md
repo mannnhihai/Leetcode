@@ -17,9 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mannnhihai/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/mannnhihai/Leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mannnhihai/Leetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mannnhihai/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mannnhihai/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
