@@ -1,11 +1,16 @@
 class Solution:
-    def twoSum(self, nums, target):
-        d = {}
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        seen = {}
 
-        for i in range(len(nums)):
-            x = target - nums[i]
+        for i , num in enumerate(nums):
+            needed = target - num
 
-            if x in d:
-                return [d[x], i]
+            if needed in seen:
+                return [seen[needed] , i]
 
-            d[nums[i]] = i
+            else:
+                seen[num] = i
+
+
+        
+        
